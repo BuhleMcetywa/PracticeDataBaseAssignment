@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PracticeOfDataBaseAssignment"
+             xmlns:models="clr-namespace:PracticeOfDataBaseAssignment.Models"
+             x:Class="PracticeOfDataBaseAssignment.MainPage" x:DataType="local:MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <Label Text="Log in" FontSize="24" HorizontalOptions="CenterAndExpand" Margin="0,20,0,40"/>
+            <Label Text="Name" FontAttributes="Bold"/>
+            <Entry Text="{Binding CurrentCustomer.Name}" Placeholder="Name"  />
+            <Label Text="Surname" FontAttributes="Bold" />
+            <Entry Text="{Binding CurrentCustomer.Surname}" Placeholder="Surname" />
+            <Label Text="Email Address" FontAttributes="Bold"/>
+            <Entry  Text="{Binding CurrentCustomer.EmailAddress}" Placeholder="Email"/>
+            <Label Text="Bio" FontAttributes="Bold" />
+            <Editor x:Name="BioEditor"  Text="{Binding CurrentCustomer.Bio}"  Placeholder="Bio" />
+            <Button Text="Save" Clicked="OnSaveClicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
