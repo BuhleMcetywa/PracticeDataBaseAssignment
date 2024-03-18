@@ -1,1 +1,1 @@
-C:\netprojects\PracticeOfDataBaseAssignment\PracticeOfDataBaseAssignment.csproj;x64
+C:\netprojects\PracticeDataBaseAssignment\PracticeOfDataBaseAssignment.csproj;x64

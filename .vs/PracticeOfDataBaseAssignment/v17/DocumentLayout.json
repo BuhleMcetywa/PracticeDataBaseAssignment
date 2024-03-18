@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\netprojects\\PracticeOfDataBaseAssignment\\",
+  "WorkspaceRootPath": "C:\\netprojects\\PracticeDataBaseAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practiceofdatabaseassignment\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practiceofdatabaseassignment\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practiceofdatabaseassignment\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practicedatabaseassignment\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practiceofdatabaseassignment\\services\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:services\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practicedatabaseassignment\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practiceofdatabaseassignment\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practicedatabaseassignment\\models\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:models\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practicedatabaseassignment\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practiceofdatabaseassignment\\models\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:models\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practicedatabaseassignment\\services\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:services\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|c:\\netprojects\\practicedatabaseassignment\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6F4B9F8-2433-48B6-8363-1461776DC076}|PracticeOfDataBaseAssignment.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\netprojects\\PracticeOfDataBaseAssignment\\MainPage.xaml",
+              "DocumentMoniker": "C:\\netprojects\\PracticeDataBaseAssignment\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\netprojects\\PracticeOfDataBaseAssignment\\MainPage.xaml",
+              "ToolTip": "C:\\netprojects\\PracticeDataBaseAssignment\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -52,72 +52,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\netprojects\\PracticeOfDataBaseAssignment\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\netprojects\\PracticeDataBaseAssignment\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\netprojects\\PracticeOfDataBaseAssignment\\MainPage.xaml.cs",
+              "ToolTip": "C:\\netprojects\\PracticeDataBaseAssignment\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T12:19:18.104Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\netprojects\\PracticeOfDataBaseAssignment\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "Models\\Cart.cs",
-              "ToolTip": "C:\\netprojects\\PracticeOfDataBaseAssignment\\Models\\Cart.cs",
-              "RelativeToolTip": "Models\\Cart.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAYwB0AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\netprojects\\PracticeDataBaseAssignment\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\netprojects\\PracticeDataBaseAssignment\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T07:57:53.085Z",
+              "WhenOpened": "2024-03-11T11:41:21.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDataBase.cs",
-              "DocumentMoniker": "C:\\netprojects\\PracticeOfDataBaseAssignment\\Services\\AppDataBase.cs",
-              "RelativeDocumentMoniker": "Services\\AppDataBase.cs",
-              "ToolTip": "C:\\netprojects\\PracticeOfDataBaseAssignment\\Services\\AppDataBase.cs",
-              "RelativeToolTip": "Services\\AppDataBase.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAhwDQAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T11:41:42.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ShoppingItem.cs",
-              "DocumentMoniker": "C:\\netprojects\\PracticeOfDataBaseAssignment\\Models\\ShoppingItem.cs",
+              "DocumentMoniker": "C:\\netprojects\\PracticeDataBaseAssignment\\Models\\ShoppingItem.cs",
               "RelativeDocumentMoniker": "Models\\ShoppingItem.cs",
-              "ToolTip": "C:\\netprojects\\PracticeOfDataBaseAssignment\\Models\\ShoppingItem.cs",
+              "ToolTip": "C:\\netprojects\\PracticeDataBaseAssignment\\Models\\ShoppingItem.cs",
               "RelativeToolTip": "Models\\ShoppingItem.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBIAAAArAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T08:05:46.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\netprojects\\PracticeOfDataBaseAssignment\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\netprojects\\PracticeOfDataBaseAssignment\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\netprojects\\PracticeDataBaseAssignment\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\netprojects\\PracticeDataBaseAssignment\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T11:41:21.16Z",
+              "WhenOpened": "2024-03-12T07:57:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDataBase.cs",
+              "DocumentMoniker": "C:\\netprojects\\PracticeDataBaseAssignment\\Services\\AppDataBase.cs",
+              "RelativeDocumentMoniker": "Services\\AppDataBase.cs",
+              "ToolTip": "C:\\netprojects\\PracticeDataBaseAssignment\\Services\\AppDataBase.cs",
+              "RelativeToolTip": "Services\\AppDataBase.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAArwEwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:41:42.15Z",
               "EditorCaption": ""
             }
           ]

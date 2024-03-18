@@ -18,10 +18,8 @@ namespace PracticeOfDataBaseAssignment.Models
 
         public int ItemQuantity { get; set; }
 
-        [ForeignKey(typeof(Cart))]
-        public int CartId { get; set; }
+        public string ImagePath { get; set; }
 
-        [ManyToOne]
-        public Cart cart { get; set; }
+        
     }
 }

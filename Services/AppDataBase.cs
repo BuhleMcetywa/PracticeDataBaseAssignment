@@ -52,6 +52,32 @@ namespace PracticeOfDataBaseAssignment.Services
 				_dbConnection.Insert(customer);
 			}
 
+			ShoppingItem shoppingItem = new ShoppingItem();
+			{
+				shoppingItem.ItemName = "PetriDish";
+				shoppingItem.ItemQuantity = 60;
+				shoppingItem.ItemPrice = 100.10m;
+
+			}
+
+			shoppingItem = new ShoppingItem(); 
+
+			{
+				shoppingItem.ItemName = "PetriDish";
+				shoppingItem.ItemQuantity = 60;
+				shoppingItem.ItemPrice = 100.10m;
+
+			}
+
+			shoppingItem =new ShoppingItem();
+
+			{
+				shoppingItem.ItemName = "PetriDish";
+				shoppingItem.ItemQuantity = 60;
+				shoppingItem.ItemPrice = 100.10m;
+			}
+
+
 			
 		}
 

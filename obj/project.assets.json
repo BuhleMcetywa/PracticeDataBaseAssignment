@@ -59253,11 +59253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\netprojects\\PracticeOfDataBaseAssignment\\PracticeOfDataBaseAssignment.csproj",
+      "projectUniqueName": "C:\\netprojects\\PracticeDataBaseAssignment\\PracticeOfDataBaseAssignment.csproj",
       "projectName": "PracticeOfDataBaseAssignment",
-      "projectPath": "C:\\netprojects\\PracticeOfDataBaseAssignment\\PracticeOfDataBaseAssignment.csproj",
+      "projectPath": "C:\\netprojects\\PracticeDataBaseAssignment\\PracticeOfDataBaseAssignment.csproj",
       "packagesPath": "C:\\Users\\Buhle Mcetywa\\.nuget\\packages\\",
-      "outputPath": "C:\\netprojects\\PracticeOfDataBaseAssignment\\obj\\",
+      "outputPath": "C:\\netprojects\\PracticeDataBaseAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

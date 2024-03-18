@@ -12,35 +12,35 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PracticeOfDataBaseAssignment
-build_property.ProjectDir = C:\netprojects\PracticeOfDataBaseAssignment\
+build_property.ProjectDir = C:\netprojects\PracticeDataBaseAssignment\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/netprojects/PracticeOfDataBaseAssignment/App.xaml]
+[C:/netprojects/PracticeDataBaseAssignment/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PracticeOfDataBaseAssignment.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/netprojects/PracticeOfDataBaseAssignment/AppShell.xaml]
+[C:/netprojects/PracticeDataBaseAssignment/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PracticeOfDataBaseAssignment.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/netprojects/PracticeOfDataBaseAssignment/MainPage.xaml]
+[C:/netprojects/PracticeDataBaseAssignment/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PracticeOfDataBaseAssignment.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/netprojects/PracticeOfDataBaseAssignment/Resources/Styles/Colors.xaml]
+[C:/netprojects/PracticeDataBaseAssignment/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PracticeOfDataBaseAssignment.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/netprojects/PracticeOfDataBaseAssignment/Resources/Styles/Styles.xaml]
+[C:/netprojects/PracticeDataBaseAssignment/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PracticeOfDataBaseAssignment.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

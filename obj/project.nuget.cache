@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3AEMNEX/NfepMO3NLAtDgiuZiX/Axjr2lNkuDAkgGXPIpx9jgz7o9A3Qkvvs0mgg+T+PiFqWFa/jXrgH4imQlQ==",
+  "dgSpecHash": "nD7vbVuv39lLrGc9bZ4vTSb/l1yk4Y81x8LetXNOD/oxyRyXFKUjwM+gB7GTmD9qfbKcn1R1dddP9E6UhNRrtA==",
   "success": true,
-  "projectFilePath": "C:\\netprojects\\PracticeOfDataBaseAssignment\\PracticeOfDataBaseAssignment.csproj",
+  "projectFilePath": "C:\\netprojects\\PracticeDataBaseAssignment\\PracticeOfDataBaseAssignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Buhle Mcetywa\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Buhle Mcetywa\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

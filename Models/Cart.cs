@@ -16,13 +16,18 @@ namespace PracticeOfDataBaseAssignment.Models
 		[PrimaryKey, AutoIncrement]
 		public int CartId { get; set; }
 
-		public ObservableCollection<ShoppingItem> shoppingItems { get; set; }
+		//public ObservableCollection<ShoppingItem> shoppingItems { get; set; }
 
 		[ForeignKey(typeof(Customer))]
 		public int CustomerId { get; set; }
 
-		[OneToOne]
+		[ManyToOne]
 	    public Customer customer {  get; set; }
+
+		public Cart()
+		{
+			customer = new Customer();
+		}
 
 
    }
